@@ -1,8 +1,8 @@
-設計部雪碧圖工具包使用說明
+gulp.spritesmith 雪碧圖使用範例檔
 
 # gulp-spritesmith
 
-#### Repository: [gulp.spritesmith](https://github.com/twolfson/gulp.spritesmith)
+#### Thank : [gulp.spritesmith](https://github.com/twolfson/gulp.spritesmith)
 
 ## 👩‍💻 在這之前你必須....
 
